@@ -1,0 +1,4 @@
+2017-10-26 20:44:35,934 - BrowserEngine - INFO - You had select Chrome browser.
+2017-10-26 20:44:35,934 - BrowserEngine - INFO - The test server url is: https://www.jd.com/index.html
+2017-10-26 20:44:39,496 - BrowserEngine - INFO - Starting Chrome browser.
+2017-10-26 20:44:46,028 - BrowserEngine - INFO - Open url: https://www.jd.com/index.html

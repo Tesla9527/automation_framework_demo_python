@@ -1,0 +1,6 @@
+2017-10-28 11:00:20,858 - BrowserEngine - INFO - You had select Chrome browser.
+2017-10-28 11:00:20,858 - BrowserEngine - INFO - The test server url is: https://www.jd.com/index.html
+2017-10-28 11:00:26,249 - BrowserEngine - INFO - Starting Chrome browser.
+2017-10-28 11:00:38,493 - BrowserEngine - INFO - Open url: https://www.jd.com/index.html
+2017-10-28 11:00:39,653 - BrowserEngine - INFO - Maximize the current window.
+2017-10-28 11:00:39,667 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
